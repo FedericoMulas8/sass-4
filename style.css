@@ -23,13 +23,12 @@
     transform: translateY(-15px);
   }
 }
-
 .bounce {
   width: 20rem;
   height: 20rem;
   background-color: red;
   animation-name: bounced;
-  animation-duration: 3s;
+  animation-duration: 1s;
 }
 
 /*# sourceMappingURL=style.css.map */
